@@ -1,0 +1,42 @@
+.container {
+    padding-left: 98px;
+    padding-right: 98px;
+    width: 1170px;
+    margin: 0 auto;
+}
+.main-page-header {
+    background-image: url("img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.main-page-header-wrapper {
+    padding-top: 195px;
+    padding-bottom: 90px;
+    background-color: #101643;
+    shape-outside: polygon(0 0, 71% 0, 55% 100%, 0 100%);
+    shape-margin: 20px;
+    clip-path: polygon(0 0, 71% 0, 55% 100%, 0 100%);
+}
+
+.main-page-header-title {
+    font-size: 144px;
+    line-height: 148px;
+    font-style: normal;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-image: url("img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 0 185px 0;
+}
+.main-page-header p{
+    color: #fbfbfc;
+    font-size: 28px;
+    line-height: 42px;
+    font-style: normal;
+    font-weight: normal;
+    max-width: 500px;
+    margin: 0;
+}
