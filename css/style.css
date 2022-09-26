@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'Epilogue';
-    src: url("fonts/Epilogue-ExtraBold.woff") format("woff"), /* Modern Browsers */
-    url("fonts/Epilogue-ExtraBold.woff2") format("woff2"); /* Modern Browsers */
+    src: url("../fonts/Epilogue-ExtraBold.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Epilogue-ExtraBold.woff2") format("woff2"); /* Modern Browsers */
     font-weight: 800;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Epilogue';
-    src: url("fonts/Epilogue-Bold.woff") format("woff"), /* Modern Browsers */
-    url("fonts/Epilogue-Bold.woff2") format("woff2"); /* Modern Browsers */
+    src: url("../fonts/Epilogue-Bold.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Epilogue-Bold.woff2") format("woff2"); /* Modern Browsers */
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -17,8 +17,8 @@
 
 @font-face {
     font-family: 'Epilogue';
-    src: url("fonts/Epilogue-Medium.woff") format("woff"), /* Modern Browsers */
-    url("fonts/Epilogue-Medium.woff2") format("woff2"); /* Modern Browsers */
+    src: url("../fonts/Epilogue-Medium.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Epilogue-Medium.woff2") format("woff2"); /* Modern Browsers */
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -26,8 +26,8 @@
 
 @font-face {
     font-family: 'Epilogue';
-    src: url("fonts/Epilogue-Regular.woff") format("woff"), /* Modern Browsers */
-    url("fonts/Epilogue-Regular.woff2") format("woff2"); /* Modern Browsers */
+    src: url("../fonts/Epilogue-Regular.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Epilogue-Regular.woff2") format("woff2"); /* Modern Browsers */
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -35,8 +35,8 @@
 
 @font-face {
     font-family: 'Epilogue';
-    src: url("fonts/Epilogue-MediumItalic.woff") format("woff"), /* Modern Browsers */
-    url("fonts/Epilogue-MediumItalic.woff2") format("woff2"); /* Modern Browsers */
+    src: url("../fonts/Epilogue-MediumItalic.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Epilogue-MediumItalic.woff2") format("woff2"); /* Modern Browsers */
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -68,7 +68,7 @@
     margin: 0 auto;
 }
 .main-page-header {
-    background-image: url("img/bg.jpg");
+    background-image: url("../img/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -90,7 +90,7 @@
     letter-spacing: 0.06em;
     color: transparent;
     -webkit-background-clip: text;
-    background-image: url("img/bg.jpg");
+    background-image: url("../img/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     margin: 0 0 185px 0;
@@ -169,7 +169,7 @@ section {
     width: 45px;
     height: 15px;
     background-color: transparent;
-    background-image: url("img/arrow.svg");
+    background-image: url("../img/arrow.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
