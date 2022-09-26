@@ -1,0 +1,26 @@
+{
+  "name": "atlantis",
+  "version": "1.0.0",
+  "description": "лендинг строительной компании Atlantis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilenan/Atlantis.git"
+  },
+  "keywords": [
+    "лендинг"
+  ],
+  "author": "Вилена Никитчук",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vilenan/Atlantis/issues"
+  },
+  "homepage": "https://github.com/vilenan/Atlantis#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-webp": "^4.0.1"
+  }
+}
